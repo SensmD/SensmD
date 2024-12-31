@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SensmD
-- 👀 I’m interested in vue.js, python and big data
-- 🌱 I’m currently learning vue.js
+- 👋 Hi, I’m @SensmD, who is a college postgraduate student.
+- 👀 I’m interested in deep learning, AI, python and big data.
+  - 🌱 I’m currently learning Vue.js, Next.js and Semantic Segmentation.
 - 💞️ I’m looking to collaborate on setting up a website for my blog.
 - 📫 How to reach me ,please chat with me and I will be reply soon.
 
